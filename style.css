@@ -8,6 +8,7 @@ img {
     width: 100px;
     height: 216px;
     border-radius: 10px;
+    border-style: outside;
 }
 
 table {
